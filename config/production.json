@@ -1,0 +1,6 @@
+{ 
+  "mongoURI": "mongodb+srv://themison:themison@devconnector-f55sj.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secrettoken",
+  "githubClientId": "048f478ee1eff5c4ce47",
+  "githubSecret": "08cd17f0dc7ed6168890693dc1aa80ad2c92227"
+}
